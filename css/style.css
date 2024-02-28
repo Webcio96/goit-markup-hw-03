@@ -90,6 +90,7 @@ img {
 }
 .address {
   font-style: normal;
+  padding: 24px 0;
 }
 .contact-list {
   display: flex;
