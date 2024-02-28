@@ -145,6 +145,9 @@ img {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.char-item {
+  width: calc((100% - 72px) / 4);
+}
 .char-list {
   display: flex;
   flex-direction: row;
@@ -155,6 +158,9 @@ img {
 .staff-members {
   display: flex;
   gap: 24px;
+}
+.char-headings {
+  margin-bottom: 8px;
 }
 .char-headings,
 .employee,
