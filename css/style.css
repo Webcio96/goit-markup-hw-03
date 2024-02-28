@@ -238,6 +238,8 @@ img {
 }
 .lower-logo {
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .lower-paragraph {
   line-height: 1.5;
