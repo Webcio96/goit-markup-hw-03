@@ -241,6 +241,10 @@ img {
   display: inline-block;
   margin-bottom: 16px;
 }
+.logo-bottom {
+  display: inline-block;
+  margin-bottom: 16px;
+}
 .lower-paragraph {
   line-height: 1.5;
   color: #f4f4fd;
