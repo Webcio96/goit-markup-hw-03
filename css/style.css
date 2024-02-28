@@ -22,7 +22,6 @@ img {
 }
 .header-border {
   border-bottom: 1px solid #e7e9fc;
-  padding: 24px 0;
 }
 .header-rapper {
   display: flex;
@@ -41,6 +40,7 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
+  padding: 24px 0;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -82,6 +82,7 @@ img {
 .contact-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .contact {
   line-height: 1.5;
