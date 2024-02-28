@@ -230,6 +230,9 @@ img {
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   border-radius: 0px 0px 4px 4px;
 }
+.about-creation {
+  margin-bottom: 8px;
+}
 .low {
   background-color: #2e2f42;
 
