@@ -32,11 +32,11 @@ img {
 }
 .header-border {
   border-bottom: 1px solid #e7e9fc;
-  padding: 24px 0;
 }
 .header-rapper {
   display: flex;
   justify-content: space-between;
+  padding: 24px 0;
 }
 .container {
   margin: 0 auto;
