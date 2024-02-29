@@ -32,12 +32,10 @@ img {
 }
 .header-border {
   border-bottom: 1px solid #e7e9fc;
-  padding: 24px 0;
 }
 .header-rapper {
   display: flex;
   justify-content: space-between;
-  padding: 24px 0;
 }
 .container {
   margin: 0 auto;
@@ -47,13 +45,11 @@ img {
 .menu {
   display: flex;
   align-items: center;
-  padding: 24px 0;
 }
 .list-rapper {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -92,18 +88,15 @@ img {
 }
 .address {
   font-style: normal;
-  padding: 24px 0;
 }
 .contact-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .contact {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding: 24px 0;
 }
 .banner-box {
   display: flex;
