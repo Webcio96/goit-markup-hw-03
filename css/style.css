@@ -92,6 +92,7 @@ img {
 .contact-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .contact {
   line-height: 1.5;
